@@ -34,7 +34,9 @@ int main()
     std::cout << isPalindrome(121) << std::endl;
     std::cout << isPalindrome(45651) << std::endl;
     std::cout << isPalindrome(445544) << std::endl;
-    std::cout << isPalindrome(001100) << std::endl;
+    std::cout << isPalindrome(9876789) << std::endl;
+    std::cout << isPalindrome(334451433) << std::endl;
+
 
     return 0;
 }
